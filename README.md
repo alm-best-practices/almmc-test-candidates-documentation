@@ -1,7 +1,7 @@
 # Cosas a tener en cuenta
 
 * No es imprescindible terminar todo, se valorará el código y su presentación (poco pero hecho lo mejor posible, mejor que mucho y sin terminar)
-* Como corolario a lo anterior, se recomienda hacer lo que tengas mas controlado
+* Como corolario a lo anterior, se recomienda hacer lo que tengas más controlado
 * Se valorará:
   * buenas prácticas aplicadas (commit conventions, linting, pre-commits, etc...)
   * un pipeline de CI (Github Actions o similar)
