@@ -6,7 +6,9 @@
   * buenas prácticas aplicadas (commit conventions, linting, pre-commits, etc...)
   * un pipeline de CI (Github Actions o similar)
   * despliegue del producto en Openshift / Kubernetes / DockerSwarm
+  * documentación asociada al proyecto. Asumiremos que el laboratorio es para una persona con concomientos básicos.
 * Se marcan los pasos que se consideran mínimos (Req) en cada sección
+
 
 # Prueba
 
