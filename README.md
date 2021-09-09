@@ -19,7 +19,7 @@
 * Borrado de los repositorios
 * Generación de los repositorios como estaban inicialmente
 
-## Python / TypeScript
+## Python / TypeScript (Deno)
 
 * (Req) Partiendo de una instancia de Nexus levantada
 * (Req) Lectura del listado de repositorios
