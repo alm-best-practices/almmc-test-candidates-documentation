@@ -16,8 +16,8 @@
 
 * (Req) Uso de docker para levantar una instancia de Sonatype Nexus
 * (Req) Lectura de todos los repositorios existentes.
- * Esto es útil cuando queremos aplicar por ejemplo aplicar algún cambio en un subconjunto repositorios, por ejemplo snapshots, que utiliza un blobs determiando, etc.
- * La forma más facil de conseguirlo es llamando al api-rest de nexus.
+  * Esto es útil cuando queremos aplicar por ejemplo aplicar algún cambio en un subconjunto repositorios, por ejemplo snapshots, que utiliza un blobs determiando, etc.
+  * La forma más facil de conseguirlo es llamando al api-rest de nexus.
 * Borrado de los repositorios
 * Generación de los repositorios como estaban inicialmente
 
